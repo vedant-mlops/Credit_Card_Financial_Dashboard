@@ -37,30 +37,6 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 9. Insights
 
 
-
-# 📊 Credit Card Transaction Report Dashboard - Week 52 (24th Dec 2023)
-![Credit_Card_Transaction_Report-24-Dec-2023](https://github.com/user-attachments/assets/fed76c25-84df-4fd2-9978-d807bb21b14c)
-
-
-# 📊 Credit Card Transaction Report Dashboard - Week 53 (31st Dec 2023)
-![Credit_Card_Transaction_Report-31-Dec-2023](https://github.com/user-attachments/assets/af087659-3189-4ece-92f5-c3cc190ca7ab)
-
-
-# 📊 Credit Card Customer Report Dashboard - Week 52 (24th Dec 2023)
-![Credit_Card_Customer_Report-24-Dec-2023](https://github.com/user-attachments/assets/c23d544c-0cd8-482a-9770-162ca9fc4779)
-
-
-# 📊 Credit Card Customer Report Dashboard - Week 53 (31st Dec 2023)
-![Credit_Card_Customer_Report-31-Dec-2023](https://github.com/user-attachments/assets/eb7f33eb-41e7-4892-aa01-55ef9f6d3aef)
-
-
-# 📊 Dashboard Insights
-![Dashboard Insights](https://github.com/user-attachments/assets/4d2d3688-e7c8-40c3-a356-73864ff0f7ef)
-
-
-
-# 📉 Project Insights- Week 53 (31st	Dec)
-
 ## Week on Week Change:  
 Revenue increased by 28.8%  
 Total Transaction Amt & Count increased by 35% & 3.4%    
@@ -77,5 +53,3 @@ Overall Activation rate is 57.5%
 Overall Delinquent rate is 6.06%  
 
 
-# 📩 Feedback
-If you have any feedback, please reach out to me at Linkedin: https://www.linkedin.com/in/vineet-patel416/
